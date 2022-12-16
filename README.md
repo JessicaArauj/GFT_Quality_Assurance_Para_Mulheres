@@ -7,5 +7,5 @@ GFT Quality Assurance Para Mulheres! 👋
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/111321791/208073946-d8db832b-011a-47cf-8d93-3a4a12fd61ac.PNG" width="400px" />
+<img src="https://user-images.githubusercontent.com/111321791/208073946-d8db832b-011a-47cf-8d93-3a4a12fd61ac.PNG" width="800px" />
 </div>
