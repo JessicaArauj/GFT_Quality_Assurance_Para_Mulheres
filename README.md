@@ -1,6 +1,6 @@
 <span align="center">
 
-##  Hellooo Helloo World! 👋 
+##  Bem-vindos ao meu repositório de atividades do Bootcamp: GFT Quality Assurance Para Mulheres! 👋 
 
 </span>
 
