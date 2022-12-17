@@ -8,7 +8,8 @@
 
 ## O objetivo principal é colocar em prática e realizar testes de código na plataforma <https://www.dio.me/> de aprendizado e parceria profissional. 
 
-Desafios:
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/111321791/208240697-abfe05bf-ff71-4e0e-934c-7b91acc58da5.PNG" width="800px" />
+</div>
 
 </span>
