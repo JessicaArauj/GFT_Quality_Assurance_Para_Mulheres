@@ -1,6 +1,6 @@
 <span align="center">
 
-##  *Bem-vindos ao repositório: Bootcamp GFT Quality Assurance Para Mulheres
+##  *Bem-vindos ao repositório: Bootcamp GFT Quality Assurance Para Mulheres*
 
 </span>
 
