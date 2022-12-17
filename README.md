@@ -2,6 +2,8 @@
 
 ##  Bem-vindos ao meu repositório de atividades do Bootcamp: 
 ##  GFT Quality Assurance Para Mulheres! 👋 
+
+<span align="justify">
 ## Neste local, você encontrará, meus projetos elaborados durante a minha participação no bootcamp de formação para garantia da qualidade e teste de software.
 </span>
 
