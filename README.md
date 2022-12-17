@@ -1,7 +1,7 @@
 <span align="center">
 
 ##  Bem-vindos ao meu repositório de atividades do Bootcamp: 
-GFT Quality Assurance Para Mulheres! 👋 
+##  GFT Quality Assurance Para Mulheres! 👋 
 
 </span>
 
