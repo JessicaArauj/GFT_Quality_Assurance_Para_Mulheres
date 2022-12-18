@@ -6,7 +6,7 @@
 
 <span align="justify">
 
-## O objetivo principal é colocar em prática umas das principais ferramentas da poo: abstração, encapsulamento, herança e polimorfismo, através de um projeto java.
+## O objetivo principal é colocar em prática umas das principais ferramentas da POO: abstração, encapsulamento, herança e polimorfismo, através de um projeto java.
 - Abstrair o domínio bootcamp e modelar seus atributos e métodos;
 - Criar as classes: bootcamp, cursos, mentorias e devs e vamos relacioná-las;
 - As classes curso, mentoria e devs também serão modelados, ou seja, criaremos seus atributos e métodos;
