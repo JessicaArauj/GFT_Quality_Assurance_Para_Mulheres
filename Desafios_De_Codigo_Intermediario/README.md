@@ -14,9 +14,9 @@ Você e seus amigos estão em uma aula de criação de jogos. Para inspirar os a
 
 Então, vocês escolheram um número para representar cada um dos parâmetros. Sendo:
 
-- 1 = Flecha
-- 2 = Escudo
-- 3 = Espada
+1 = Flecha
+2 = Escudo
+3 = Espada
 
 - Entrada
 A entrada vão ser dois números representando cada um dos parâmetros. Sendo a primeira entrada o jogador e a segunda o inimigo.
