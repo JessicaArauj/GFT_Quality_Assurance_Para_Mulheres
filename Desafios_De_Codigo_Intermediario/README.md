@@ -84,11 +84,11 @@ A saída deverá retornar o valor final da diferença entre o produto e a soma d
 
 Você e seus amigos estão jogando uma partida de RPG (Role-Playing Game) utilizando um dado de 10 lados. Em um determinado momento, em uma masmorra escura, o seu personagem foi emboscado por um terrível goblin. Como em todo bom RPG, temos alguns parâmetros que definem os status dos personagens:
 
-Vida: Pontos que devem ser maiores que 0, se não o personagem morre.
+- Vida: Pontos que devem ser maiores que 0, se não o personagem morre.
 
-Ataque: Pontos que definem quanto de dano ele inflingirá nos outros personagens.
+- Ataque: Pontos que definem quanto de dano ele inflingirá nos outros personagens.
 
-Defesa: Pontos que definem quanto dano será mitigado quando ele levar um ataque.
+- Defesa: Pontos que definem quanto dano será mitigado quando ele levar um ataque.
 
 O dado é um modificador desses parâmetros. Quando você joga o dado o valor dele deve ser somado ao seu ataque ou a sua defesa. Quando o valor do dado for maior que 8 e menor que 10, o jogador tira um crítico e essa soma deve ser DOBRADA.
 
@@ -108,15 +108,15 @@ A entrada serão seis parâmetros nessa ordem:
 
     - Dados;
 
-    - Vida do Jogador;
+    - Vida do Jogador
 
-    - Ataque do Jogador;
+    - Ataque do Jogador
 
-    - Defesa do Jogador;
+    - Defesa do Jogador
 
-    - Vida do Inimigo;
+    - Vida do Inimigo
 
-    - Ataque do Inimigo;
+    - Ataque do Inimigo
 
 - Saída
 
