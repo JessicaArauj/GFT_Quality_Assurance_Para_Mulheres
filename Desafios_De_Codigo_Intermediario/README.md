@@ -15,7 +15,9 @@ Você e seus amigos estão em uma aula de criação de jogos. Para inspirar os a
 Então, vocês escolheram um número para representar cada um dos parâmetros. Sendo:
 
 1 = Flecha
+
 2 = Escudo
+
 3 = Espada
 
 - Entrada
