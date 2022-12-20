@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class NumeroFeliz2 {
     static int sumDigitSquare(int n) {
         int digit, sq = 0;
         while (n > 0) {
