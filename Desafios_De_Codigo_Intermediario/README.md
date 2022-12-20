@@ -106,7 +106,7 @@ Para deixar a jogatina mais rápida, fazendo o computador realizar as contas mat
 
 A entrada serão seis parâmetros nessa ordem:
 
-    - Dados;
+    - Dados
 
     - Vida do Jogador
 
